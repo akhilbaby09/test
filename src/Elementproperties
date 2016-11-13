@@ -1,0 +1,16 @@
+######Oneway#####
+id="gi_oneway_label
+//from
+name="gi_source"
+//to
+name="gi_destination"
+time
+.//td[@id="jrdp_start-calen_9_13_2016"]
+//id="gi_search_btn"
+//view details 
+
+.//li[@id="o9W-815_9W-823amadeus"]//a[contains(text(),'View')]
+//no of seat left
+class="ico13 orange"
+//fare details
+class="ico14 blue"
